@@ -1,4 +1,4 @@
-# 后台清道夫 (bg-janitor)
+# 后台清道夫 (bg-janitor-skill)
 
 **中文** | [English](#english)
 
@@ -84,7 +84,7 @@ bg-janitor/
 
 ## English
 
-[↑ 中文](#后台清道夫-bg-janitor)
+[↑ 中文](#后台清道夫-bg-janitor-skill)
 
 A [Claude Code](https://claude.com/claude-code) / Agent Skill. It inventories and cleans up **orphaned / zombie background processes that keep running after the GUI is already closed**: the kind that Electron + sandbox AI tools (WorkBuddy, Codex, TRAE, Cursor) love to pile up, plus login agents that respawn the moment you kill them.
 
